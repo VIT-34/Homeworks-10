@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\bin\Debug\net6.0\Task 0310.exe
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\bin\Debug\net6.0\Task 0310.deps.json
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\bin\Debug\net6.0\Task 0310.runtimeconfig.json
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\bin\Debug\net6.0\Task 0310.dll
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\bin\Debug\net6.0\Task 0310.pdb
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.AssemblyInfo.cs
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.dll
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\refint\Task 0310.dll
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.pdb
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\Task 0310.genruntimeconfig.cache
+C:\Users\Vitaliy\Desktop\homeworks seminar 10\Task 0310\obj\Debug\net6.0\ref\Task 0310.dll
